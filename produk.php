@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Daftar Menu</title>
-		<div class="wrapper2">
-		<center><img src ="images/home.jpg" height="150";/></center>
-		</div>
-		<link rel="stylesheet" type="text/css" href="style.css">
-		
+<head>
+	<meta charset="utf-8">
+		<title>Beranda</title> <br> <br>
+		<link href="style/style.css" rel="stylesheet" type="text/css" media="screen"/>
 	</head>
 	<body>
 		<div class="wrapper">
@@ -18,6 +15,7 @@
 						<li><a href="event.php">Event</a></li>
 						<li><a href="infoperusahaan.php">Informasi Perusahaan</a></li>
 						<li><a href="pemesanan.php">Pemesanan</a></li>
+						<li><a href="login.php">Login</a></li>
 					</ul>
 				</nav>
 			</header>

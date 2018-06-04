@@ -25,7 +25,7 @@
 			<section class="courses">
 				<article>
 					<figure>
-						<br> <img src="images/eventgeprek2.jpg" alt="eventgeprek2" />
+						<img src="images/eventgeprek1.jpg" alt="eventgeprek2" />
 						<figcaption>Event Geprek</figcaption>
 					</figure>
 					<hgroup>
@@ -42,9 +42,7 @@
 					</figure>
 					<hgroup>
 						<h2>Pilih Levelmu !!!!</h2>
-						<h3>Mister siang ini pengen iseng nanya ke pecinta pedas semua. Biasanya kalau kamu ke @mistergeprek . Biasanya nyobain level berapa ya ?? .
-.
-Ada yang berani Level 15-20 ???</h3>
+						<h3>Mister siang ini pengen iseng nanya ke pecinta pedas semua. Biasanya kalau kamu ke @mistergeprek . Biasanya nyobain level berapa ya ?? ..Ada yang berani Level 15-20 ???</h3>
 					</hgroup>
 					<p>.</p>
 				</article> 
@@ -57,5 +55,5 @@ Ada yang berani Level 15-20 ???</h3>
 				</section>
 			</aside>
 		</div><!-- .wrapper -->
-	</body>
+    </body>
 </html>
