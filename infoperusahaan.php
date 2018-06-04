@@ -2,25 +2,26 @@
 <html>
 	<head>
 		<title>Informasi Perusahaan</title>
+		<div class="wrapper2">
+		<center><img src ="images/home.jpg" height="150";/></center>
+		</div>
 		<link rel="stylesheet" type="text/css" href="info.css">
 		
 	</head>
 	<body>
 		<div class="wrapper">
 			<header>
-				<h1>Mister Geprek</h1>
 				<nav>
 					<ul>
 						<li><a href="index.php" >Home</a></li>
 						<li><a href="produk.php">Produk</a></li>
 						<li><a href="event.php">Event</a></li>
 						<li><a href="infoperusahaan.php"class="current" >Informasi Perusahaan</a></li>
-						<li><a href="kontakperusahaan.php">Kontak Perusahaan</a></li>
 						<li><a href="pemesanan.php">Pemesanan</a></li>
 					</ul>
 				</nav>
 			</header>
-			<section class="courses">  
+			<section>  
 				<figure>
 				<img src="images/toko.jpg" alt="toko" />
 				<br><br><b>Pelopor AYAM GEPREK di LAMPUNG.</b>
@@ -33,7 +34,7 @@
 			</section>
 			
 			<footer>
-				&copy; 2017 Kenyang.com
+			<center>&copy; 1617051017 - 1617051049 - 1617051075</center>
 			</footer>
 		</div><!-- .wrapper -->
 	</body>
