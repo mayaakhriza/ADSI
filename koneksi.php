@@ -1,10 +1,9 @@
-<?php 
 
-$host = 'localhost';
-$name = 'kenyangcom';
-$user = 'root';
-$pass = '==s3cur1tyIT==';
-
-$mysqli = mysqli_connect($host, $user, $pass, $name);
-
+<?php
+$host= "localhost";
+$username= "root";
+$password= "";
+$db= "adsi";
+$koneksi= mysqli_connect($host, $username, $password) or die ("Gagal terkoneksi!");
+mysqli_select_db($koneksi, $db) or ("Database tidak tersedia");
 ?>

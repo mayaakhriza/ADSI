@@ -1,6 +1,11 @@
 <?php
 session_start();
-session_destroy();
-echo "<script>alert('Terima kasih, Anda Berhasil Logout')</script>";
-echo "<meta http-equiv='refresh' content='1 url=login.php'>";
+if(session_destroy()){
+  echo "
+  <script>
+  alert('Anda berhasil logout!');
+  window.location= 'login.php';
+  </script>
+  ";
+}
 ?>
