@@ -72,7 +72,7 @@ body{
  }
 
  <!--
- section, footer, aside, nav, article, figure, figcaption {
+ section, footer, article, figure, figcaption {
 				display: block;}
 			
 			
@@ -87,9 +87,10 @@ body{
 				margin: 0px;
 				padding: 5px 0px 5px 0px;}
 			nav li {
-                font-size: 100%;
+                font-size: 120%;
 				display: inline;
-				margin-right: 5px;}
+                margin-right: 20px;
+                height: 40px;}
 			
 			nav li a:hover, nav li a.current {
 				color: #000000;}

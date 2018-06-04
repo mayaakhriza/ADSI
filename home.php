@@ -2,13 +2,12 @@
 <html>
 	<head>
 	<meta charset="utf-8">
-		<title>Beranda</title> <br> <br>
+		<title>Home</title> <br> <br>
 		<link href="style/style.css" rel="stylesheet" type="text/css" media="screen"/>
 	</head>
 	<body>
 		<div class="wrapper">
-			<header> <br><br><br><br><br><br><br><br>
-				<center><h1>Perpustakaan</h1></center>
+			<header> <br><br>
 				<nav>
 					<ul>
 						<li><a href="index.php"class="current">Home</a></li>

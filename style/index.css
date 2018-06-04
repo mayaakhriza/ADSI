@@ -14,7 +14,7 @@ tbody{
 
 /* HEADER */
 .header-wrapper {
-  background: url("../images/bannerbg.jpg");
+  background: url("../images/aww.jpg");
   background-size:  100%;
 
 }
@@ -118,12 +118,13 @@ tbody{
     background-color: #f3c30f;
     color: white;
 }
-
+    
 /* Navigation Bar */
 ul {
+    float: left;
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: #fcfcfc;
     position: fixed;
@@ -133,15 +134,10 @@ ul {
 
 li {
     float: left;
-}
+    font-size: 100%;
+    display: inline;
+    margin-right: 20px;}
 
-li a {
-    display: block;
-    color: #191919;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
 
 li a:hover:not(.active) {
     background-color: #fffae2;

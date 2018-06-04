@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-		<title>Beranda</title> <br> <br>
+		<title>produk</title> <br> <br>
 		<link href="style/style.css" rel="stylesheet" type="text/css" media="screen"/>
 	</head>
 	<body>
