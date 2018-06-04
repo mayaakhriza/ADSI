@@ -114,19 +114,17 @@
 			<aside>
 				<section class="contact-details">
 					<h2>Kontak</h2>
-					<p>Mujahid<br />
-						1517051165 <br>
-					<p>Nurhaida<br />
-						1517051129 <br>
-					<p>Mega Deviana<br />
-						1517051134 <br>
-					<p>Dian Riskiyana S<br />
-						1517051139
+					<p>Maya Akhriza (1617051017)<br />
+						083170977820 <br>
+					<p>Mela Rahmadani (1617051049)<br />
+						08992155031 <br>
+					<p>Sisda Amalia Utrujah (1617051075)<br />
+						082182845985 <br>
 				</section>
 			</aside>
-			<footer>
-				&copy; Mujahid, Nurhaida, Mega Deviana, Dian Riskiyana S
-			</footer>
+			<div class="footer"> <center> Copyright &copy; 2018. All rights reserved. Designed and developed by MayaAkhriza_1617051017 MelaRahmadani_1617051049 SisdaAmaliaUtrujah_1617051075</center></div>
+        </div>
+    
 		</div><!-- .wrapper -->
 	</body>
 </html>
