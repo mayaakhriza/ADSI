@@ -2,19 +2,20 @@
 <html>
 	<head>
 		<title>Event Mister Geprek</title>
+		<div class="wrapper2">
+		<center><img src ="images/home.jpg" height="150";/></center>
+		</div>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
 		<div class="wrapper">
 			<header>
-				<h1>Perpustakaan</h1>
 				<nav>
 					<ul>
 						<li><a href="index.php" >Home</a></li>
 						<li><a href="produk.php">Produk</a></li>
 						<li><a href="event.php"class="current">Event</a></li>
 						<li><a href="infoperusahaan.php">Informasi Perusahaan</a></li>
-						<li><a href="kontakperusahaan.php">Kontak Perusahaan</a></li>
 						<li><a href="pemesanan.php">Pemesanan</a></li>
 					</ul>
 				</nav>
@@ -50,9 +51,18 @@
 					</hgroup>
 				</article>   --> 
 			</section>
-			
+			<aside>
+				<section class="popular-recipes">
+					<center>
+					<h2>Kontak Kami</h2>
+					<img src="images/kontak.png" height="100"/>
+					<h3>Email: mistergeprek@yahoo.co.id</h3>
+					<h3>Telepon: 08217887654</h3>
+					</center>
+				</section>
+			</aside>
 			<footer>
-				&copy; 2017 Kenyang.com
+			<center>&copy; 1617051017 - 1617051049 - 1617051075</center>
 			</footer>
 		</div><!-- .wrapper -->
 	</body>
